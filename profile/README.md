@@ -12,6 +12,9 @@
   <a href="https://www.youtube.com/channel/UCDmU7SufT8Datt9xw6dxQ_A">
     <img src="https://img.shields.io/badge/Youtube-f00?logo=youtube&logoColor=white" />
   </a>
+  <a href="https://steamcommunity.com/groups/ess-gta-v">
+    <img src="https://img.shields.io/badge/Steam-112?logo=steam&logoColor=white" />
+  </a>
 </p>
   
 <p align="center">
