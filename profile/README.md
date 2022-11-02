@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ess-ro.com">
-    <img src="https://i.imgur.com/zoKTqrU.png" width="200px"/>
+    <img src="https://i.imgur.com/XaNn9mY.png" width="200px"/>
   </a>
 </p>
 
