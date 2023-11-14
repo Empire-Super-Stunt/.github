@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  An upcoming <b>GTA V server<b/> (RAGE:MP) with stunt mode
+  <b>GTA V server<b/> (RAGE:MP) with stunt mode
 </p>
 
 <p align="center">
