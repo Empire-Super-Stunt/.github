@@ -15,7 +15,7 @@
   <a href="https://steamcommunity.com/groups/ess-gta-v">
     <img src="https://img.shields.io/badge/Steam-112?logo=steam&logoColor=white" />
   </a>
-  <a href="https://discord.ess-ro.com">
+  <a href="https://ess-ro.com/discord">
     <img src="https://img.shields.io/badge/Discord-78d?logo=discord&logoColor=white" />
   </a>
 </p>
